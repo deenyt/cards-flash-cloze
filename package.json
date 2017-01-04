@@ -1,0 +1,22 @@
+{
+  "name": "cards-flash-cloze",
+  "version": "1.0.0",
+  "description": "flashcard generator",
+  "main": "mainflashcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deenyt/cards-flash-cloze.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deenyt/cards-flash-cloze/issues"
+  },
+  "homepage": "https://github.com/deenyt/cards-flash-cloze#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
